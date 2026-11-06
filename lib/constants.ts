@@ -7,6 +7,7 @@ export const STORAGE_PATHS = {
     RENDERS: "roomify/renders",
 } as const;
 
+
 // Timing Constants (in milliseconds)
 export const SHARE_STATUS_RESET_DELAY_MS = 1500;
 export const PROGRESS_INCREMENT = 15;
